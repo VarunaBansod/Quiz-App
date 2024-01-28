@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "86942031780",
+    "project_id": "coding-stuff-to-do",
+    "storage_bucket": "coding-stuff-to-do.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86942031780:android:57c8db287bf197083cab31",
+        "android_client_info": {
+          "package_name": "com.example.codingstuffto_do"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAol2fpSb55268b4yuKUfglGwwEMQkvIJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
