@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Define your color resource for the search view text color -->
+    <color name="your_searchview_text_color">#000000</color>
+
+    <!-- Other styles and resources -->
+</resources>

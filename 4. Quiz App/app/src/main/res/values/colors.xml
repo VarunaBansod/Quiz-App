@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+<!--    <color name="orange">#F60</color>-->
+    <color name="olive_green">#6d9773</color>
+    <color name="light_olive_green">#CBFBD2</color>
+    <color name="olive_green_light">#DBF39A</color>
+    <color name="forest_green">#228B22</color>
+    <color name="dark_forest_green">#014421</color>
+    <color name="olive_yellow">#bbba52</color>
+    <color name="sandy_brown">#f4a460</color>
+    <color name="yellow">#ffba00</color>
+    <color name="peach">#ffcba4</color>
+    <color name="teal_green">#00897B</color> //main
+    <color name="coral_pink">#FF6F61</color> //buttons
+    <color name="creamy_ivory">#FFF5E1</color> //bg
+    <color name="mint_green"> #AED581</color> //complement teal green
+    <!--                app:tint="#BA68C8"-->
+
+</resources>

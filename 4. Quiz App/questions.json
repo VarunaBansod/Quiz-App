@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "title": "Android",
+    "subtitle": "History and usage",
+    "time": "10",
+    "question": [
+      {
+        "question": "Who owns android?",
+        "options": [
+          "Apple",
+          "Google",
+          "Samsung",
+          "Microsoft"
+        ],
+        "correct": "Google"
+      },
+      {
+        "question": "What assistant android uses",
+        "options": [
+          "Siri",
+          "Cortana",
+          "Google Assistant",
+          "Alexa"
+        ],
+        "correct": "Google Assistant"
+      }
+    ]
+  }
+]

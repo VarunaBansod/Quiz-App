@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather Application</string>
+    <string name="_00_c">00°C</string>
+    <string name="wind_speed">Wind Speed</string>
+</resources>
